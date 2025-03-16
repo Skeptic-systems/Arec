@@ -1,4 +1,4 @@
-<#Skript by JV#>
+<#Skript by Skeptic Systems#>
 #Funktion zum definieren von "Win32" u.a für IsKeyDown
 Add-Type @'
 using System;
